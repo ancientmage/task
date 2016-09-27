@@ -21,4 +21,3 @@ public:
 	void findAll(std::string & str, std::vector<std::string> & ans);
 	int remove(const std::string & str, int ind, const std::string * str2 = 0);
 };
-

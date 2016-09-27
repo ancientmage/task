@@ -19,4 +19,3 @@ public:
 	void printAll();
 	int getSize();
 };
-

@@ -8,4 +8,3 @@ public:
 	void test();
 	void recursiveOpenAllFolders(const std::string & curFolder, MultiMap & multiMap);
 };
-
